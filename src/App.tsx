@@ -67,7 +67,7 @@ function getJournalsDir(): Directory {
 type Screen = 'list' | 'editor';
 
 export default function App() {
-  const [screen, setScreen] = useState<Screen>('list');
+  const [screen, setScreen] = useState<Screen>('editor');
   const [editingJournal, setEditingJournal] = useState<string | null>(null);
   const [listKey, setListKey] = useState(0);
 
