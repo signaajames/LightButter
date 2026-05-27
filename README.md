@@ -2,6 +2,11 @@
 
 I made this so I could start journaling. It's a minimal journaling app made with react native and typescript.
 
+## Preview
+
+![Preview 1](assets/preview1.png)
+![Preview 2](assets/preview2.png)
+
 ## How to use it
 
 1. Clone this repo
